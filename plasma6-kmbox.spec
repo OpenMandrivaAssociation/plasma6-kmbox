@@ -20,7 +20,7 @@ Source0:	https://invent.kde.org/pim/kmbox/-/archive/%{gitbranch}/kmbox-%{gitbran
 Source0: http://download.kde.org/%{ftpdir}/release-service/%{version}/src/kmbox-%{version}.tar.xz
 %endif
 Summary: KDE library for accessing MBOX mail files
-URL: http://kde.org/
+URL: https://kde.org/
 License: GPL
 Group: System/Libraries
 BuildRequires: cmake(ECM)
